@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Николай Давыдов](https://up.htmlacademy.ru/htmlcss/30/user/1645143).
-* Наставник: [Роман Литвинов](https://htmlacademy.ru/profile/nmrhard).
+* Наставник: [Роман :) Литвинов](https://htmlacademy.ru/profile/nmrhard).
 
 ---
 
